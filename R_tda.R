@@ -32,4 +32,4 @@ for (j in 1:num_nodes){
   }
 }
 
-print(my_graph, file = "~/my_graph.gexf")
+print(my_graph, file = "/home/luispolanco/Documentos/R_TDA/my_graph.gexf")
